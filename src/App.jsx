@@ -24,8 +24,6 @@ function App() {
                     jokes.map(u => <p key={u.id}>{u.setup}{u.delivery}</p>)
                 }
             </p>
-            
-                
 
         </header>
       </div>
